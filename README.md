@@ -41,10 +41,6 @@ Apart from tech, I like to [draw](https://adxthya.github.io/pages/art.html) and 
 ### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/adithya-k-b-0191a9272" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-k-b-0191a9272" height="30" width="40" /></a>
-<a href="https://instagram.com/adiii.hhh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adiii.hhh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adithyakb93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adithyakb93" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adithyakb10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adithyakb10" height="30" width="40" /></a>
-<a href="https://twitter.com/adithyakb10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithyakb10" height="30" width="40" /></a>
 </p>
 
 > "To see a World in a Grain of Sand
