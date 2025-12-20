@@ -8,8 +8,7 @@ My main tech stack is NextJS, TypeScript and Tailwind.
 
 Also interested in Linux and other FOSS products. Currently on NixOS and MacOS.
 
-Apart from tech, I like to [draw](https://adxthya.github.io/pages/art.html) and watch [movies](https://letterboxd.com/adxthyax/).
-
+Apart from tech, I like to [draw](https://adxthya.github.io/pages/art.html) and watch movies.
 ### Technologies
 ![Redux](https://img.shields.io/badge/Git%20-B2BEB5?style=for-the-badge&logo=git&logoColor=000000)
 ![React](https://img.shields.io/badge/React%20-B2BEB5?style=for-the-badge&logo=react&logoColor=000000)
